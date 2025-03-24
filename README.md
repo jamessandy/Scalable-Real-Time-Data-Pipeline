@@ -5,7 +5,7 @@ An e-commerce business needs to be capture real-time user behavior and transacti
 
 ## Architecture
 
-
+![Real-Time Data Pipeline for E-commerce Business drawio](https://github.com/user-attachments/assets/a26fc380-364c-41e1-8693-2d2885bbe657)
 
 
 ## **Technologies Used**
