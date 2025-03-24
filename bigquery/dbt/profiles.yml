@@ -1,0 +1,12 @@
+ecommerce_pipeline:
+  target: prod
+  outputs:
+    prod:
+      type: bigquery
+      threads: 1
+      project: your-project-id
+      dataset: your_dataset_name
+      keyfile: /path/to/your-service-account-file.json
+      location: US
+      priority: interactive
+      timeout_seconds: 300

@@ -1,0 +1,7 @@
+pandas
+kafka-python
+apache-flink
+google-cloud-bigquery
+dbt
+apache-airflow
+flask

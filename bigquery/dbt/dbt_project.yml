@@ -1,0 +1,8 @@
+name: ecommerce_pipeline
+version: '1.0'
+profile: bigquery
+source-paths: ["models"]
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules"
